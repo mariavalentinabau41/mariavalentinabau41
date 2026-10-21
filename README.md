@@ -12,20 +12,37 @@ I currently work at the CityHall of Nova Santa Rosa, Brazil, while pursuing my p
 [ᴘᴛ-ʙʀ]
 Sou estudante de Engenharia de Software e busco oportunidades na área de tecnologia para desenvolver minhas habilidades e adquirir experiência prática. Atualmente, trabalho na Prefeitura Municipal de Nova Santa Rosa, Brasil, enquanto sigo aprimorando meu desenvolvimento na tecnologia.
 
+
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=C58F91&height=65&section=header&text=CURRENTLY%20LEARNING&fontSize=24&fontColor=FFFFFF&fontAlignY=55" width="100%" alt="Currently Learning"/>
-</p>
+## Currently Learning
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7F2EA?style=flat-square&logo=javascript&logoColor=C58F91" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Java-F7F2EA?style=flat-square&logo=openjdk&logoColor=C58F91" alt="Java"/>
-  <img src="https://img.shields.io/badge/C-F7F2EA?style=flat-square&logo=c&logoColor=C58F91" alt="C"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-F7F2EA?style=flat-square&logo=cplusplus&logoColor=C58F91" alt="C++"/>
-  <img src="https://img.shields.io/badge/SQL-F7F2EA?style=flat-square&logo=mysql&logoColor=C58F91" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Project%20Management-F7F2EA?style=flat-square&logo=task&logoColor=C58F91" alt="Project Management"/>
-</p>
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7F2E9?style=flat&logo=javascript&logoColor=C58F91)
+![Java](https://img.shields.io/badge/Java-F7F2E9?style=flat&logo=openjdk&logoColor=C58F91)
+![C](https://img.shields.io/badge/C-F7F2E9?style=flat&logo=c&logoColor=C58F91)
+![C++](https://img.shields.io/badge/C%2B%2B-F7F2E9?style=flat&logo=cplusplus&logoColor=C58F91)
+![SQL](https://img.shields.io/badge/SQL-F7F2E9?style=flat&logo=postgresql&logoColor=C58F91)
+![Project Management](https://img.shields.io/badge/Project_Management-F7F2E9?style=flat&logo=gitbook&logoColor=C58F91)
+
+</div>
+
+## Technologies & Tools
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F7F2E9?style=flat&logo=git&logoColor=C58F91)
+![GitHub](https://img.shields.io/badge/GitHub-F7F2E9?style=flat&logo=github&logoColor=C58F91)
+![VS Code](https://img.shields.io/badge/VS_Code-F7F2E9?style=flat&logo=visualstudiocode&logoColor=C58F91)
+![Figma](https://img.shields.io/badge/Figma-F7F2E9?style=flat&logo=figma&logoColor=C58F91)
+![ClickUp](https://img.shields.io/badge/ClickUp-F7F2E9?style=flat&logo=clickup&logoColor=C58F91)
+![HTML5](https://img.shields.io/badge/HTML5-F7F2E9?style=flat&logo=html5&logoColor=C58F91)
+![CSS3](https://img.shields.io/badge/CSS3-F7F2E9?style=flat&logo=css3&logoColor=C58F91)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7F2E9?style=flat&logo=javascript&logoColor=C58F91)
+![C](https://img.shields.io/badge/C-F7F2E9?style=flat&logo=c&logoColor=C58F91)
+
+</div>
 
 ---
 
