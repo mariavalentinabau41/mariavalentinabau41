@@ -11,3 +11,17 @@ I currently work at the Municipality of Nova Santa Rosa, Brazil, while pursuing 
 
 [ᴘᴛ-ʙʀ]
 Sou estudante de Engenharia de Software e busco oportunidades na área de tecnologia para desenvolver minhas habilidades e adquirir experiência prática. Atualmente, trabalho na Prefeitura Municipal de Nova Santa Rosa, Brasil, enquanto sigo aprimorando meu desenvolvimento na tecnologia.
+
+<p align="left">
+  <a href="https://instagram.com/mariaasbau">
+    <img src="https://cdn.simpleicons.org/instagram/B7A58A" width="22" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/mariavalentinabau41">
+    <img src="https://cdn.simpleicons.org/linkedin/B7A58A" width="22" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:mariavalentinabau41@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/B7A58A" width="22" alt="Email"/>
+  </a>
+</p>
