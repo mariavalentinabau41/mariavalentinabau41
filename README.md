@@ -45,6 +45,9 @@ Sou estudante de Engenharia de Software e busco oportunidades na área de tecnol
 </div>
 
 ---
+<h3>
+  <span style="color: #C58F91;">Let's Connect</span>
+</h3>
 
 <p align="left">
   <a href="https://instagram.com/mariaasbau">
