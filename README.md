@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./maria_valentina_banner_transparente.gif" width="100%" alt="Maria Valentina Baú - Software Engineering Student">
+  <img src="./maria_valentina_banner_transparente.png" width="100%" alt="Maria Valentina Baú - Software Engineering Student">
 </div>
 
 ## About Me
