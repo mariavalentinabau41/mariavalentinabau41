@@ -17,11 +17,7 @@ Sou estudante de Engenharia de Software e busco oportunidades na área de tecnol
     <img src="https://cdn.simpleicons.org/instagram/B7A58A" width="22" alt="Instagram"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/mariavalentinabau41">
-    <img src="https://cdn.simpleicons.org/linkedin/B7A58A" width="22" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:mariavalentinabau41@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/B7A58A" width="22" alt="Email"/>
-  </a>
-</p>
+<a href="mailto:mariavalentinabau41@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/B7A58A" width="22" alt="Email"/>
+</a>
+
