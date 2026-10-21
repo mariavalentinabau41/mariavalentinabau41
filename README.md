@@ -43,8 +43,18 @@ Sou estudante de Engenharia de Software e busco oportunidades na área de tecnol
 ![C](https://img.shields.io/badge/C-F7F2E9?style=flat&logo=c&logoColor=C58F91)
 
 </div>
+---
 
 ---
+
+### Languages
+
+![Portuguese](https://img.shields.io/badge/Portuguese-Native-C58F91?style=flat-square&logoColor=white)
+![English](https://img.shields.io/badge/English-Advanced-C58F91?style=flat-square&logoColor=white)
+
+---
+
+
 <h3>
   <span style="color: #C58F91;">Let's Connect</span>
 </h3>
