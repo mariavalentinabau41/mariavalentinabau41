@@ -1,6 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&pause=1000&color=FFF0DA&width=435&lines=Hi+There%2C+I'm+Maria+%3A%29" alt="Typing SVG" /></a>
 
- 
+ <p align="center">
+  <img src="banner.svg" alt="Banner Maria Valentina">
+</p>
 
 ## About Me
 
