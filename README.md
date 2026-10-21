@@ -29,13 +29,12 @@ Sou estudante de Engenharia de Software e busco oportunidades na área de tecnol
 
 ---
 
-
 <p align="left">
   <a href="https://instagram.com/mariaasbau">
-    <img src="https://cdn.simpleicons.org/instagram/B7A58A" width="22" alt="Instagram"/>
+    <img src="https://cdn.simpleicons.org/instagram/F7F2E9" width="22" alt="Instagram"/>
   </a>
   &nbsp;
 <a href="mailto:mariavalentinabau41@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/B7A58A" width="22" alt="Email"/>
+  <img src="https://cdn.simpleicons.org/gmail/F7F2E9" width="22" alt="Email"/>
 </a>
 
