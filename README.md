@@ -12,6 +12,24 @@ I currently work at the Municipality of Nova Santa Rosa, Brazil, while pursuing 
 [ᴘᴛ-ʙʀ]
 Sou estudante de Engenharia de Software e busco oportunidades na área de tecnologia para desenvolver minhas habilidades e adquirir experiência prática. Atualmente, trabalho na Prefeitura Municipal de Nova Santa Rosa, Brasil, enquanto sigo aprimorando meu desenvolvimento na tecnologia.
 
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=C58F91&height=65&section=header&text=CURRENTLY%20LEARNING&fontSize=24&fontColor=FFFFFF&fontAlignY=55" width="100%" alt="Currently Learning"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7F2EA?style=flat-square&logo=javascript&logoColor=C58F91" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-F7F2EA?style=flat-square&logo=openjdk&logoColor=C58F91" alt="Java"/>
+  <img src="https://img.shields.io/badge/C-F7F2EA?style=flat-square&logo=c&logoColor=C58F91" alt="C"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-F7F2EA?style=flat-square&logo=cplusplus&logoColor=C58F91" alt="C++"/>
+  <img src="https://img.shields.io/badge/SQL-F7F2EA?style=flat-square&logo=mysql&logoColor=C58F91" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Project%20Management-F7F2EA?style=flat-square&logo=task&logoColor=C58F91" alt="Project Management"/>
+</p>
+
+---
+
+
 <p align="left">
   <a href="https://instagram.com/mariaasbau">
     <img src="https://cdn.simpleicons.org/instagram/B7A58A" width="22" alt="Instagram"/>
