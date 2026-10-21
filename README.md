@@ -43,7 +43,7 @@ Sou estudante de Engenharia de Software e busco oportunidades na área de tecnol
 ![C](https://img.shields.io/badge/C-F7F2E9?style=flat&logo=c&logoColor=C58F91)
 
 </div>
----
+
 
 ---
 
