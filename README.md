@@ -78,9 +78,9 @@ Sou estudante de Engenharia de Software e busco oportunidades na área de tecnol
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Product_Development-C58F91?style=flat-square&logo=github&logoColor=white" alt="Product Development" />
+  <img src="https://img.shields.io/badge/Product_Owner-C58F91?style=flat-square&logo=github&logoColor=white" alt="Product Owner" />
   <br />
-  <sub>Turning ideas into useful digital solutions.</sub>
+  <sub>Connecting user needs, business goals, and digital solutions.</sub>
 </p>
 
 
