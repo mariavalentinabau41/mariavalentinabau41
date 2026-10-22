@@ -29,6 +29,7 @@ Sou estudante de Engenharia de Software e busco oportunidades na área de tecnol
 
 </div>
 
+
 ## Technologies & Tools
 
 <div align="center">
@@ -37,6 +38,7 @@ Sou estudante de Engenharia de Software e busco oportunidades na área de tecnol
 ![GitHub](https://img.shields.io/badge/GitHub-F7F2E9?style=flat&logo=github&logoColor=C58F91)
 ![VS Code](https://img.shields.io/badge/VS_Code-F7F2E9?style=flat&logo=visualstudiocode&logoColor=C58F91)
 ![Figma](https://img.shields.io/badge/Figma-F7F2E9?style=flat&logo=figma&logoColor=C58F91)
+![Miro](https://img.shields.io/badge/Miro-F7F2E9?style=flat&logo=miro&logoColor=C58F91)
 ![ClickUp](https://img.shields.io/badge/ClickUp-F7F2E9?style=flat&logo=clickup&logoColor=C58F91)
 ![HTML5](https://img.shields.io/badge/HTML5-F7F2E9?style=flat&logo=html5&logoColor=C58F91)
 ![CSS3](https://img.shields.io/badge/CSS3-F7F2E9?style=flat&logo=css3&logoColor=C58F91)
@@ -44,7 +46,6 @@ Sou estudante de Engenharia de Software e busco oportunidades na área de tecnol
 ![C](https://img.shields.io/badge/C-F7F2E9?style=flat&logo=c&logoColor=C58F91)
 
 </div>
-
 
 ---
 
