@@ -1,4 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&pause=1000&color=FFF0DA&width=435&lines=Olá!+Sou%2C+a+Maria+%3A%29" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7E6D4&width=435&lines=Oie!+Sou+a+Maria+%3A%29)](https://git.io/typing-svg)
+
 
  <p align="center">
   <img src="banner.svg" alt="Banner Maria Valentina">
