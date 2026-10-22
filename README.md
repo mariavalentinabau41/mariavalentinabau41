@@ -56,6 +56,33 @@ Sou estudante de Engenharia de Software e busco oportunidades na área de tecnol
 
 ---
 
+<h2 align="left">Interests</h2>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Software_Development-C58F91?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Software Development" />
+  <br />
+  <sub>Building projects and learning new technologies.</sub>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/UI%2FUX_Design-C58F91?style=flat-square&logo=figma&logoColor=white" alt="UI/UX Design" />
+  <br />
+  <sub>Creating intuitive and user-friendly experiences.</sub>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Project_Management-C58F91?style=flat-square&logo=clickup&logoColor=white" alt="Project Management" />
+  <br />
+  <sub>Organizing tasks, requirements, and team workflows.</sub>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Product_Development-C58F91?style=flat-square&logo=github&logoColor=white" alt="Product Development" />
+  <br />
+  <sub>Turning ideas into useful digital solutions.</sub>
+</p>
+
+
 
 <h3>
   <span style="color: #C58F91;">Let's Connect</span>
