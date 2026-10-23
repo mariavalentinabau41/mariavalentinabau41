@@ -52,7 +52,7 @@ Sou estudante de Engenharia de Software e busco oportunidades na área de tecnol
 
 ![Portuguese](https://img.shields.io/badge/Portuguese-Native-C58F91?style=flat-square)
 ![English](https://img.shields.io/badge/English-Advanced-C58F91?style=flat-square)
-![Spanish](https://img.shields.io/badge/Spanish-Basic-C58F91?style=flat-square)
+
 
 ---
 
