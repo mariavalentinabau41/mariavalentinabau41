@@ -5,13 +5,19 @@
   <img src="banner.svg" alt="Banner Maria Valentina">
 </p>
 
-## About Me
 [ᴇɴ]
-I am a Software Engineering student seeking opportunities in technology to develop my skills and gain hands-on experience.
-I currently work as an intern at the CityHall of Nova Santa Rosa, Brazil, while pursuing my passion for technology and software development.
+Hi! I'm Maria Valentina, a Software Engineering student from Brazil, interested in the intersection of technology, product development, and design.
+I'm passionate about understanding problems, organizing ideas, and turning them into meaningful digital solutions. My interests include Product Management, Product Design, UX/UI, and Software Development. 
+Throughout my academic journey, I've been developing projects that allow me to explore both technical and creative aspects of technology, from building web applications to designing user-centered digital experiences.
+I'm always looking for opportunities to learn, collaborate, and grow while contributing to projects that make a difference.
+**Currently exploring:** Product Management, UX/UI Design, JavaScript, Java, and Software Development.
 
 [ᴘᴛ-ʙʀ]
-Sou estudante de Engenharia de Software e busco oportunidades na área de tecnologia para desenvolver minhas habilidades e adquirir experiência prática. Atualmente, trabalho como estágiaria na Prefeitura Municipal de Nova Santa Rosa, Brasil, enquanto sigo aprimorando meu desenvolvimento na tecnologia.
+Olá! Sou Maria Valentina, estudante de Engenharia de Software no Brasil, interessada na interseção entre tecnologia, desenvolvimento de produtos e design.
+Gosto de compreender problemas, organizar ideias e transformá-las em soluções digitais relevantes. 
+Tenho interesse em Gestão de Produtos, Product Design, UX/UI e Desenvolvimento de Software. 
+Ao longo da minha formação acadêmica, venho desenvolvendo projetos que me permitem explorar tanto os aspectos técnicos quanto criativos da tecnologia, desde a criação de aplicações web até o desenvolvimento de experiências digitais centradas no usuário. 
+Estou sempre em busca de oportunidades para aprender, colaborar e evoluir profissionalmente, contribuindo para projetos que gerem impacto positivo.
 
 
 ---
