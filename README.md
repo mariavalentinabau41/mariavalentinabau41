@@ -49,7 +49,8 @@ Estou sempre em busca de oportunidades para aprender, colaborar e evoluir profis
 ![HTML5](https://img.shields.io/badge/HTML5-F7F2E9?style=flat&logo=html5&logoColor=C58F91)
 ![CSS3](https://img.shields.io/badge/CSS3-F7F2E9?style=flat&logo=css3&logoColor=C58F91)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7F2E9?style=flat&logo=javascript&logoColor=C58F91)
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F7F2E9?style=flat&logo=postgresql&logoColor=C58F91)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-F7F2E9?style=flat&logo=intellijidea&logoColor=C58F91)
 </div>
 
 ---
