@@ -6,18 +6,10 @@
 </p>
 
 [ᴇɴ]
-Hi! I'm Maria Valentina, a Software Engineering student from Brazil, interested in the intersection of technology, product development, and design.
-I'm passionate about understanding problems, organizing ideas, and turning them into meaningful digital solutions. My interests include Product Management, Product Design, UX/UI, and Software Development. 
-Throughout my academic journey, I've been developing projects that allow me to explore both technical and creative aspects of technology, from building web applications to designing user-centered digital experiences.
-I'm always looking for opportunities to learn, collaborate, and grow while contributing to projects that make a difference.
-**Currently exploring:** Product Management, UX/UI Design, JavaScript, Java, and Software Development.
+I am a Software Engineering student currently working as an intern at the Municipality of Nova Santa Rosa, Brazil. I am interested in Product Management, Product Design, UX/UI, and Software Development. I aim to expand my knowledge and experience by combining technology, creativity, and product thinking in the development of digital solutions. I am always open to new learning opportunities and professional growth.
 
 [ᴘᴛ-ʙʀ]
-Olá! Sou Maria Valentina, estudante de Engenharia de Software no Brasil, interessada na interseção entre tecnologia, desenvolvimento de produtos e design.
-Gosto de compreender problemas, organizar ideias e transformá-las em soluções digitais relevantes. 
-Tenho interesse em Gestão de Produtos, Product Design, UX/UI e Desenvolvimento de Software. 
-Ao longo da minha formação acadêmica, venho desenvolvendo projetos que me permitem explorar tanto os aspectos técnicos quanto criativos da tecnologia, desde a criação de aplicações web até o desenvolvimento de experiências digitais centradas no usuário. 
-Estou sempre em busca de oportunidades para aprender, colaborar e evoluir profissionalmente, contribuindo para projetos que gerem impacto positivo.
+Sou estudante de Engenharia de Software e atualmente atuo como estagiária na Prefeitura Municipal de Nova Santa Rosa. Tenho interesse nas áreas de Gestão de Produtos, Product Design, UX/UI e Desenvolvimento de Software. Busco ampliar meus conhecimentos e experiências, unindo tecnologia, criatividade e visão de produto no desenvolvimento de soluções digitais. Estou sempre aberta a novas oportunidades de aprendizado e crescimento profissional.
 
 
 ---
